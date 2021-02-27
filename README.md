@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**19wintersp/19wintersp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![stats](https://github-readme-stats.vercel.app/api?username=19wintersp&theme=dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=19wintersp&layout=compact&theme=dark)
 
-Here are some ideas to get you started:
+[Github](https://github.com/19wintersp) | [Github site](https://19wintersp.github.io/) | [Replit](https://repl.it/@19wintersp) | [Replit site](https://19wintersp.repl.co/?ref=github-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'll often be more active on Replit, so you can see more of my projects over there.
+
+```asm
+mov eax, 1
+mov ebx, 0
+int 0x80
+```
